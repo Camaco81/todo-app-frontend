@@ -38,7 +38,7 @@ export default {
     return {
       tasks: [],
       newTaskText: '',
-      apiBaseUrl: 'http://127.0.0.1:5000/api/tasks'
+      apiBaseUrl: 'https://todo-app-backend-a6t7.onrender.com'
     };
   },
   created() {
